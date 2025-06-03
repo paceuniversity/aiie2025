@@ -15,7 +15,7 @@
 * Presentation of the program
 * Git / GitHub
 * Review of Python
-  * [Data Types](https://colab.research.google.com/drive/1wTLN4MneellWht_f6RGd_qSBNlm10JL3?usp=sharing)
+  * [Data Types]([https://colab.research.google.com/drive/1wTLN4MneellWht_f6RGd_qSBNlm10JL3?usp=sharing](https://discord.com/channels/1373026348917850273/1373026348917850278/1379464691436359731))
   * [Operators](https://colab.research.google.com/drive/1MoGVo5nZkn8dwMGiuAugFY0-MywtPv5O?usp=sharing)
   * [Control Statements](https://colab.research.google.com/drive/1lJH2Zm-a5w3XXheLvY02DWeLHIsN3poG?usp=sharing)
   * [Methods and Functions](https://colab.research.google.com/drive/1nhbIMXdSHTeneUlm8Y0qjhPKDGovQc0W?usp=sharing)
