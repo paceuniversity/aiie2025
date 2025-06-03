@@ -10,6 +10,8 @@ Stephanie Sicilian
 
 ## Organizers
 
+Jill Olimpieri and Rachel Schwartz
+
 ## Agenda
 
 * [Agenda](https://bit.ly/aiie2025agenda)
