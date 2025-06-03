@@ -2,7 +2,11 @@
 
 ## Instructors
 
+Dr. Christelle Scharff and Dr. Kaleema
+
 ## Graduate Assistant
+
+Stephanie Sicilian
 
 ## Organizers
 
@@ -19,6 +23,6 @@
   * [Operators](https://drive.google.com/file/d/1-xB1lUb_30c4ua7RdvYhWwd9dcUsVeWg/view?usp=sharing)
   * [Control Statements](https://drive.google.com/file/d/1njIBsKHYgx7EfZqgSOUOGinpJLfLvw_x/view?usp=sharing)
   * [Methods and Functions](https://drive.google.com/file/d/1_l10qjs6yuKQC36cSaGPzz_vR5Wkfdc6/view?usp=sharing)
-  * [Classes](https://colab.research.google.com/drive/1Mpjz0sVj3CxbgRV_vPZ-JqUZv4eM5YFB?usp=sharing)
+  * [Classes](https://drive.google.com/file/d/1K9eAaCONdEARKY0wu2kxGEKZMnYDKToa/view?usp=sharing)
 * Images and Pillow
   * 
