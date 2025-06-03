@@ -27,5 +27,6 @@ Jill Olimpieri and Rachel Schwartz
   * [Methods and Functions](https://drive.google.com/file/d/1_l10qjs6yuKQC36cSaGPzz_vR5Wkfdc6/view?usp=sharing)
   * [Classes](https://drive.google.com/file/d/1K9eAaCONdEARKY0wu2kxGEKZMnYDKToa/view?usp=sharing)
   * [Practice Exercises 1](https://colab.research.google.com/drive/1of3ofPbaCMLLRGxYngXaK8NjqLXPeesS?usp=sharing)
+  * [Practice Exercises 2](https://colab.research.google.com/drive/1TaJ7gjhtNIvPNJDbJzJY6YBNRKJh_ndx?usp=sharing)
 * Images and Pillow
   * 
