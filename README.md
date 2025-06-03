@@ -8,7 +8,7 @@
 
 ## Agenda
 
-https://bit.ly/aiie2025agenda
+* [Agenda](https://bit.ly/aiie2025agenda)
 
 ## Slides & Notebooks
 
