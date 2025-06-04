@@ -1,4 +1,4 @@
-# aiie2025
+# Pace University AI Internship Experience 2025 
 
 ## Instructors
 
