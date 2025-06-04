@@ -35,6 +35,7 @@ Jill Olimpieri and Rachel Schwartz
 * Numpy and Pandas
   * [Numpy](https://drive.google.com/file/d/1_6DqSqxVdTqlYMmWIfK-Qv2soZfKqknr/view?usp=sharing)
   * [Pandas](https://drive.google.com/file/d/1WkKzB-IYSTxEgcGgaYbVvisdtRjOsDjP/view?usp=sharing)
+  * [Pandas Practice](https://docs.google.com/document/d/1kJemEivhqu-ZUTUpCJWkvFJIM2zN0c3M/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
 * Datasets
   * [Titanic](https://drive.google.com/file/d/1faAdD3eiH1I6JszaT8W-aJ2MkUGnLrWP/view?usp=sharing)
   * [Covid](https://drive.google.com/file/d/1xp74Fos6icE6-rnmbMkpDQwv2ULyxxoR/view?usp=sharing)
