@@ -2,15 +2,21 @@
 
 ## Instructors
 
-Dr. Christelle Scharff and Dr. Kaleema
+| <img src="https://media.licdn.com/dms/image/v2/D4D03AQGUOZerxyep8g/profile-displayphoto-shrink_800_800/B4DZSTiIydG4Ak-/0/1737641988394?e=1754524800&v=beta&t=qgkTMts1G-Vy6Vb5mMTkW-py7qg8PYbcbs4NdzLYVpc" width="120"/> | <img src="https://media.licdn.com/dms/image/v2/D4E03AQExsy_VJBbFmg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725973639624?e=1754524800&v=beta&t=mUwOQtZX2hAJXbUyo2gI1yW6Elutj0dvsLuf2BWVAcw" width="120"/> |
+|:--:|:--:|
+| **Dr. Christelle Scharff** | **Dr. Kaleema** |
 
 ## Graduate Assistant
 
-Stephanie Sicilian
+| <img src="https://media.licdn.com/dms/image/v2/D4D03AQG2Nf63gUD53g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715188480511?e=1754524800&v=beta&t=vwrBDcdhYupCQck67RVkaG7dkUWdY4bCAcWGkvtOsLs" width="120"/> |
+|:--:|
+| **Stephanie Sicilian** |
 
 ## Organizers
 
-Jill Olimpieri and Rachel Schwartz
+| <img src="https://media.licdn.com/dms/image/v2/D4E03AQFIo2vleiaJgw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1702016197804?e=1754524800&v=beta&t=bI0vb1RBZ7TaxENAb6nedcdqV602kJyPyhPcVKGFpl8" width="120"/> | <img src="https://media.licdn.com/dms/image/v2/D4E03AQGW3urX2GrCzg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1701128920558?e=1754524800&v=beta&t=FIqX56yQVOZRgWIUuyVWRyYhaV7nDPZ1DYNd2TLdR-M" width="120"/> |
+|:--:|:--:|
+| **Jill Olimpieri** | **Rachel Schwartz** |
 
 ## Agenda
 
