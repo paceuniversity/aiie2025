@@ -46,3 +46,5 @@ Jill Olimpieri and Rachel Schwartz
 * Images and Pillow
   * [Manipulating Images with Pillow - Slides](https://docs.google.com/presentation/d/1pmLRYXQF2DYPcz9OJpT4_Znz3l6M5Xc9jvg0jUdXb24/present)
   * [Manipulating Images with Pillow - Notebook](https://bit.ly/imgfiltercolab)
+* Google Tools for Students
+  * [Tool List and Assignment](https://docs.google.com/document/d/1cTK4GF2fc-lw-wU6Dl49xfqw6w55IzynnbGeP292ClI/edit?usp=sharing)
