@@ -33,6 +33,8 @@ Jill Olimpieri and Rachel Schwartz
 * Agile Methodologies
   * [Agile Methodologies & Scrum](https://docs.google.com/presentation/d/13GKbuR_8ylKtdVQJ2RFiif0dv7dr3BQLEpecwSXjbiM/edit?usp=sharing)
 * Numpy and Pandas
+  * [Numpy](https://drive.google.com/file/d/1_6DqSqxVdTqlYMmWIfK-Qv2soZfKqknr/view?usp=sharing)
+  * [Pandas](https://drive.google.com/file/d/1WkKzB-IYSTxEgcGgaYbVvisdtRjOsDjP/view?usp=sharing)
 * Images and Pillow
   * [Manipulating Images with Pillow - Slides](https://docs.google.com/presentation/d/1pmLRYXQF2DYPcz9OJpT4_Znz3l6M5Xc9jvg0jUdXb24/present)
   * [Manipulating Images with Pillow - Notebook](https://bit.ly/imgfiltercolab)
