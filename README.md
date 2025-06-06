@@ -54,3 +54,7 @@
   * [Manipulating Images with Pillow - Notebook](https://bit.ly/imgfiltercolab)
 * Google Tools for Students
   * [Tool List and Assignment](https://docs.google.com/document/d/1cTK4GF2fc-lw-wU6Dl49xfqw6w55IzynnbGeP292ClI/edit?usp=sharing)
+* Machine Learning
+  * [Linear Regression](https://drive.google.com/file/d/1Re9hytp7VzWhSEtj4g4CPOhIwSenazyx/view?usp=sharing)
+  * [MNIST Classification](https://drive.google.com/file/d/1kPpaksyGzVHJ0EAvOjy_fTf51Ch8rN6c/view?usp=sharing)
+  * [CNN Cat vs. Dog Classification](https://drive.google.com/file/d/1CgxWLSib_cb-inFlwgxB3MVEM5rcHPSB/view?usp=sharing)
