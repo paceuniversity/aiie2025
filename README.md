@@ -59,3 +59,7 @@
      * [LR Slides](https://docs.google.com/presentation/d/15WdzPEqUXP6oBJ-UvsZiH_om8_jFqKxs/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
   * [MNIST Classification](https://drive.google.com/file/d/1kPpaksyGzVHJ0EAvOjy_fTf51Ch8rN6c/view?usp=sharing)
   * [CNN Cat vs. Dog Classification](https://drive.google.com/file/d/1CgxWLSib_cb-inFlwgxB3MVEM5rcHPSB/view?usp=sharing)
+ 
+## Other Datasets
+
+  * [Datasets](https://catalog.data.gov/dataset)
