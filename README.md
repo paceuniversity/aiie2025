@@ -54,6 +54,8 @@
   * [Manipulating Images with Pillow Notebook](https://bit.ly/imgfiltercolab)
 * Google Tools for Students
   * [Tool List and Assignment](https://docs.google.com/document/d/1cTK4GF2fc-lw-wU6Dl49xfqw6w55IzynnbGeP292ClI/edit?usp=sharing)
+* Tall Tower Team Exercise
+  * [Challenge Instructions](https://docs.google.com/presentation/d/1mS2YnVz2gEH-LoAqmwAdBE5Bc44whAdKmqRLyX0Tnb4/edit?usp=sharing)
 * Machine Learning
   * Linear Regression
     * [Linear Regression Slides](https://docs.google.com/presentation/d/15WdzPEqUXP6oBJ-UvsZiH_om8_jFqKxs/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
