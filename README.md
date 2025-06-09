@@ -56,8 +56,8 @@
   * [Tool List and Assignment](https://docs.google.com/document/d/1cTK4GF2fc-lw-wU6Dl49xfqw6w55IzynnbGeP292ClI/edit?usp=sharing)
 * Machine Learning
   * Linear Regression
-  * [Linear Regression Notebook](https://drive.google.com/file/d/1Re9hytp7VzWhSEtj4g4CPOhIwSenazyx/view?usp=sharing)
-  * [Linear Regression Slides](https://docs.google.com/presentation/d/15WdzPEqUXP6oBJ-UvsZiH_om8_jFqKxs/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
+    * [Linear Regression Notebook](https://drive.google.com/file/d/1Re9hytp7VzWhSEtj4g4CPOhIwSenazyx/view?usp=sharing)
+    * [Linear Regression Slides](https://docs.google.com/presentation/d/15WdzPEqUXP6oBJ-UvsZiH_om8_jFqKxs/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
   * CNN
     * [Neural Networks Slides](https://docs.google.com/presentation/d/13iChhAaJHpvnZdknWBVhNG4VS4WY9Bxn/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
     * [CNN Slides](https://docs.google.com/presentation/d/1X6zsjnJya32G60dbkWGHsdN-KJZU1fvA/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
