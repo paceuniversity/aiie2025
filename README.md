@@ -65,6 +65,11 @@
     * [CNN Slides](https://docs.google.com/presentation/d/1X6zsjnJya32G60dbkWGHsdN-KJZU1fvA/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
     * [CNN Cat vs. Dog Classification Notebook](https://drive.google.com/file/d/1CgxWLSib_cb-inFlwgxB3MVEM5rcHPSB/view?usp=sharing) 
     * [MNIST Classification Notebook](https://drive.google.com/file/d/1kPpaksyGzVHJ0EAvOjy_fTf51Ch8rN6c/view?usp=sharing)
+  * Gemini API's
+    * [Image Generation and Editing](https://colab.research.google.com/drive/1QTLfNCaXV_LGryzjASACj0ndvT9_uFkg?usp=sharing)
+    * [Video Understanding](https://colab.research.google.com/drive/1S1bHdXrueQFtiMxD8R99DBUbm0rwfqsY?usp=sharing)
+    * [Text-to_Speech](https://colab.research.google.com/drive/1Ce1SMZhVx6hqdSkHpb8JMHQ0HOXaebC9?usp=sharing)
+    * [Music Generation](https://colab.research.google.com/drive/1g9C-M-VHxyl2ftZYNHSAnkia4L8XXL53?usp=sharing)
     
  
 ## Other Datasets
