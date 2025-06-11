@@ -78,7 +78,9 @@
   * [Gemini for generating text Notebook](https://colab.research.google.com/drive/1uN2b4wvU4GxB8C_u9TWXFbg3bmaYf_OV?usp=sharing)
   * [Gemini for summarization Notebook](https://colab.research.google.com/drive/1w5V-KGrzwgIXwUg6rafxz0ok6a5Nmrsm?usp=sharing)
   * [Gemini for chatbot Notebook](https://colab.research.google.com/drive/1ikoOcNX1Zczmww2UJq5hg9thZPUt6Q4L?usp=sharing)
-    
+* Building a Chatbot with Gemini and Streamlit (by: Tejomay Kapadia,Rohan Niranjan Kalpavruksha, and Roshan Niranjan Kalpavruksha)
+  * [Hackathon Slides](https://docs.google.com/presentation/d/1wn7dcAdNaRzQMnn7Qx6abGnBtwlntQY5/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
+  * [Hackathon Notebook](https://colab.research.google.com/drive/1TsICVxt0IbJ6_W11vHHu32s3duDJXV8U?usp=sharing)
  
 ## Other Datasets
 
