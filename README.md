@@ -66,6 +66,7 @@
     * [CNN Cat vs. Dog Classification Notebook](https://drive.google.com/file/d/1CgxWLSib_cb-inFlwgxB3MVEM5rcHPSB/view?usp=sharing) 
     * [MNIST Classification Notebook](https://drive.google.com/file/d/1kPpaksyGzVHJ0EAvOjy_fTf51Ch8rN6c/view?usp=sharing)
 * [Text Sentiment Analysis](https://drive.google.com/file/d/17HvJAyxknig1nyvjEyBCo_9Alwc4Maty/view?usp=sharing)
+* [Generative AI](https://docs.google.com/presentation/d/1Ax5MTiBuN5_w7qce1NU28Ka6XWUDKnZp/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
 * AI and Google Gemini
   * [Slides](https://docs.google.com/presentation/d/1yW-halc0XC2pXHPp5BUBHt0vW3RQEx0L/edit?slide=id.g134da1a804d_0_194#slide=id.g134da1a804d_0_194)
   * [Notebook](https://colab.research.google.com/drive/1LHSK6SOlZHQVS6C626NGKAK9nV_x_qU1?usp=sharing)
