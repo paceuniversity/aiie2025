@@ -65,18 +65,17 @@
     * [CNN Slides](https://docs.google.com/presentation/d/1X6zsjnJya32G60dbkWGHsdN-KJZU1fvA/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
     * [CNN Cat vs. Dog Classification Notebook](https://drive.google.com/file/d/1CgxWLSib_cb-inFlwgxB3MVEM5rcHPSB/view?usp=sharing) 
     * [MNIST Classification Notebook](https://drive.google.com/file/d/1kPpaksyGzVHJ0EAvOjy_fTf51Ch8rN6c/view?usp=sharing)
-* Google Gemini 
-  * [Slides](https://docs.google.com/presentation/d/1yW-halc0XC2pXHPp5BUBHt0vW3RQEx0L/edit?slide=id.g134da1a804d_0_194#slide=id.g134da1a804d_0_194)
-  * [Notebook](https://colab.research.google.com/drive/1LHSK6SOlZHQVS6C626NGKAK9nV_x_qU1?usp=sharing)
-    * Gemini API's
-      * [Image Generation and Editing](https://colab.research.google.com/drive/1QTLfNCaXV_LGryzjASACj0ndvT9_uFkg?usp=sharing)
-      * [Video Understanding](https://colab.research.google.com/drive/1S1bHdXrueQFtiMxD8R99DBUbm0rwfqsY?usp=sharing)
-      * [Text-to_Speech](https://colab.research.google.com/drive/1Ce1SMZhVx6hqdSkHpb8JMHQ0HOXaebC9?usp=sharing)
-      * [Music Generation](https://colab.research.google.com/drive/1g9C-M-VHxyl2ftZYNHSAnkia4L8XXL53?usp=sharing)
+* Introduction to Google Gemini 
+  * [Overview of Google Gemini Slides](https://docs.google.com/presentation/d/1yW-halc0XC2pXHPp5BUBHt0vW3RQEx0L/edit?slide=id.g134da1a804d_0_194#slide=id.g134da1a804d_0_194)
+  * [Image Generation Notebook](https://colab.research.google.com/drive/1LHSK6SOlZHQVS6C626NGKAK9nV_x_qU1?usp=sharing)
+  * [Image Generation and Editing](https://colab.research.google.com/drive/1QTLfNCaXV_LGryzjASACj0ndvT9_uFkg?usp=sharing)
+  * [Video Understanding](https://colab.research.google.com/drive/1S1bHdXrueQFtiMxD8R99DBUbm0rwfqsY?usp=sharing)
+  * [Text-to_Speech](https://colab.research.google.com/drive/1Ce1SMZhVx6hqdSkHpb8JMHQ0HOXaebC9?usp=sharing)
+  * [Music Generation](https://colab.research.google.com/drive/1g9C-M-VHxyl2ftZYNHSAnkia4L8XXL53?usp=sharing)
 * NLP
   * [Generative AI Slides](https://docs.google.com/presentation/d/1Ax5MTiBuN5_w7qce1NU28Ka6XWUDKnZp/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
   * [Text Sentiment Analysis Notebook](https://drive.google.com/file/d/17HvJAyxknig1nyvjEyBCo_9Alwc4Maty/view?usp=sharing)
-  * [Gemini for model for genarating text Notebook](https://colab.research.google.com/drive/1uN2b4wvU4GxB8C_u9TWXFbg3bmaYf_OV?usp=sharing)
+  * [Gemini for generating text Notebook](https://colab.research.google.com/drive/1uN2b4wvU4GxB8C_u9TWXFbg3bmaYf_OV?usp=sharing)
   * [Gemini for summarization Notebook](https://colab.research.google.com/drive/1w5V-KGrzwgIXwUg6rafxz0ok6a5Nmrsm?usp=sharing)
   * [Gemini for chatbot Notebook](https://colab.research.google.com/drive/1ikoOcNX1Zczmww2UJq5hg9thZPUt6Q4L?usp=sharing)
     
