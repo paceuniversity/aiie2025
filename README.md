@@ -35,7 +35,6 @@
 * Test your Python Skills with these Google Colab Notebooks
   * [Test your skills 1](https://colab.research.google.com/drive/1of3ofPbaCMLLRGxYngXaK8NjqLXPeesS?usp=sharing)
   * [Test your skills 2](https://colab.research.google.com/drive/1TaJ7gjhtNIvPNJDbJzJY6YBNRKJh_ndx?usp=sharing)
-  * Push your code to your aiie2025 GitHub
 * Agile Methodologies
   * [Agile Methodologies & Scrum](https://docs.google.com/presentation/d/13GKbuR_8ylKtdVQJ2RFiif0dv7dr3BQLEpecwSXjbiM/edit?usp=sharing)
 * Numpy and Pandas
@@ -81,7 +80,7 @@
 * Building a Chatbot with Gemini and Streamlit (by: Tejomay Kapadia, Rohan Niranjan Kalpavruksha, and Roshan Niranjan Kalpavruksha)
   * [Hackathon Slides](https://docs.google.com/presentation/d/1wn7dcAdNaRzQMnn7Qx6abGnBtwlntQY5/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
   * [Hackathon Notebook](https://colab.research.google.com/drive/1TsICVxt0IbJ6_W11vHHu32s3duDJXV8U?usp=sharing)
-* OpenAI Chatbook Notebooks
+* OpenAI Chatbot Notebooks
   * [Model for Querying Document](https://colab.research.google.com/drive/1mEIxOFtd3-09PjifnTa6_qwe1XiVTD0z?usp=sharing)
   * [Text-to-Image](https://colab.research.google.com/drive/1yHA_CinM1KUXxItohSlVCd1DJebv3nQi?usp=sharing)
   * [Conversational Agent](https://colab.research.google.com/drive/1M0Pq2ajXrHFjhrXGdDtY04IQxaB49BGs?usp=sharing)
