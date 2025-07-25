@@ -36,7 +36,7 @@
   * [Test your skills 1](https://colab.research.google.com/drive/1of3ofPbaCMLLRGxYngXaK8NjqLXPeesS?usp=sharing)
   * [Test your skills 2](https://colab.research.google.com/drive/1TaJ7gjhtNIvPNJDbJzJY6YBNRKJh_ndx?usp=sharing)
 * Agile Methodologies
-  * [Agile Methodologies & Scrum](https://docs.google.com/presentation/d/13GKbuR_8ylKtdVQJ2RFiif0dv7dr3BQLEpecwSXjbiM/edit?usp=sharing)
+  * [Agile Methodologies & Scrum](https://docs.google.com/presentation/d/13GKbuR_8ylKtdVQJ2RFiif0dv7dr3BQLEpecwSXjbiM/present)
 * Numpy and Pandas
   * [Numpy](https://drive.google.com/file/d/1_6DqSqxVdTqlYMmWIfK-Qv2soZfKqknr/view?usp=sharing)
   * [Pandas](https://drive.google.com/file/d/1WkKzB-IYSTxEgcGgaYbVvisdtRjOsDjP/view?usp=sharing)
