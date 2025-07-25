@@ -30,7 +30,7 @@
   * [Data Types Notebook](https://colab.research.google.com/drive/1G1_RV6o8__wldSdG9ebppcA6_IOIM0-k)
   * [Operators Notebook](https://colab.research.google.com/drive/1-xB1lUb_30c4ua7RdvYhWwd9dcUsVeWg)
   * [Control Statements Notebook](https://colab.research.google.com/drive/1ItP4wQYpvgdpkdtxn0jo4Qc_wJWxf1fU)
-  * [Methods and Functions Notebook](https://drive.google.com/file/d/1_l10qjs6yuKQC36cSaGPzz_vR5Wkfdc6/view?usp=sharing)
+  * [Methods and Functions Notebook](https://colab.research.google.com/drive/159kQdFtvTqQIQmVrTNNgjY_XLBcFZfl7?usp=sharing)
   * [Classes](https://drive.google.com/file/d/1K9eAaCONdEARKY0wu2kxGEKZMnYDKToa/view?usp=sharing)
 * Test your Python Skills with these Google Colab Notebooks
   * [Test your skills 1](https://colab.research.google.com/drive/1of3ofPbaCMLLRGxYngXaK8NjqLXPeesS?usp=sharing)
