@@ -49,7 +49,7 @@
   * [Sms](https://drive.google.com/file/d/1Mt28eus6FKwew77rF0IFbgJr3M9iIHi9/view?usp=sharing)
   * [WTC](https://drive.google.com/file/d/16OPif9DaQbJR-f7cMdK12KF4lSq-yP3C/view?usp=sharing)
 * Images and Pillow
-  * [Manipulating Images with Pillow Slides](https://docs.google.com/presentation/d/1pmLRYXQF2DYPcz9OJpT4_Znz3l6M5Xc9jvg0jUdXb24/present)
+  * [Manipulating Images with Pillow Slides](https://docs.google.com/presentation/d/1_1a88EK0kytjKVKCC7S4VF2_4QpHQbSp1S1cubSvlRU/present)
   * [Manipulating Images with Pillow Notebook](https://bit.ly/imgfiltercolab)
 * Google Tools for Students
   * [Tool List and Assignment](https://docs.google.com/document/d/1cTK4GF2fc-lw-wU6Dl49xfqw6w55IzynnbGeP292ClI/edit?usp=sharing)
