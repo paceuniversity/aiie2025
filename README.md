@@ -51,7 +51,8 @@
 * Images and Pillow
   * [Manipulating Images with Pillow Slides](https://docs.google.com/presentation/d/1_1a88EK0kytjKVKCC7S4VF2_4QpHQbSp1S1cubSvlRU/present)
   * [Manipulating Images with Pillow Notebook](https://bit.ly/imgfiltercolab)
-* Google Tools for Students
+* **First team project:** Google Tools for Students
+  * [Google Gemini for Students](https://gemini.google/students)
   * [Tool List and Assignment](https://docs.google.com/document/d/1cTK4GF2fc-lw-wU6Dl49xfqw6w55IzynnbGeP292ClI/edit?usp=sharing)
 * Tall Tower Team Exercise
   * [Challenge Instructions](https://docs.google.com/presentation/d/1mS2YnVz2gEH-LoAqmwAdBE5Bc44whAdKmqRLyX0Tnb4/present)
@@ -86,6 +87,10 @@
   * [Conversational Agent](https://colab.research.google.com/drive/1M0Pq2ajXrHFjhrXGdDtY04IQxaB49BGs?usp=sharing)
 
  
-## Other Datasets
+## Other Resources
 
   * [Datasets](https://catalog.data.gov/dataset)
+  * [Google Gemini Cookbook](https://github.com/google-gemini/cookbook/tree/main)
+  * [GitHub Education Teacher Toolbox](https://github.com/github-education-resources/teacher-toolbox?tab=readme-ov-file#user-content-curriculum)
+  * [GitHub Education ML Course](https://microsoft.github.io/ML-For-Beginners/#/)
+  * [GitHub Education Web Course](https://microsoft.github.io/Web-Dev-For-Beginners/#/)
