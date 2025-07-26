@@ -38,7 +38,7 @@
 * Agile Methodologies
   * [Agile Methodologies & Scrum](https://docs.google.com/presentation/d/13GKbuR_8ylKtdVQJ2RFiif0dv7dr3BQLEpecwSXjbiM/present)
 * Numpy and Pandas
-  * [Numpy](https://drive.google.com/file/d/1_6DqSqxVdTqlYMmWIfK-Qv2soZfKqknr/view?usp=sharing)
+  * [Numpy](https://colab.research.google.com/drive/1_6DqSqxVdTqlYMmWIfK-Qv2soZfKqknr)
   * [Pandas](https://drive.google.com/file/d/1WkKzB-IYSTxEgcGgaYbVvisdtRjOsDjP/view?usp=sharing)
   * [Pandas Practice](https://docs.google.com/document/d/1kJemEivhqu-ZUTUpCJWkvFJIM2zN0c3M/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
 * Datasets
