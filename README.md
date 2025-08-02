@@ -33,14 +33,14 @@
   * [Methods and Functions Notebook](https://colab.research.google.com/drive/159kQdFtvTqQIQmVrTNNgjY_XLBcFZfl7?usp=sharing)
   * [Classes](https://colab.research.google.com/drive/1K9eAaCONdEARKY0wu2kxGEKZMnYDKToa)
 * Test your Python Skills with these Google Colab Notebooks
-  * [Test your skills 1](https://colab.research.google.com/drive/1of3ofPbaCMLLRGxYngXaK8NjqLXPeesS?usp=sharing)
-  * [Test your skills 2](https://colab.research.google.com/drive/1TaJ7gjhtNIvPNJDbJzJY6YBNRKJh_ndx?usp=sharing)
+  * [Test your skills 1 Notebook](https://colab.research.google.com/drive/1of3ofPbaCMLLRGxYngXaK8NjqLXPeesS?usp=sharing)
+  * [Test your skills 2 Notebook](https://colab.research.google.com/drive/1TaJ7gjhtNIvPNJDbJzJY6YBNRKJh_ndx?usp=sharing)
 * Agile Methodologies
   * [Agile Methodologies & Scrum](https://docs.google.com/presentation/d/13GKbuR_8ylKtdVQJ2RFiif0dv7dr3BQLEpecwSXjbiM/present)
 * Numpy and Pandas
-  * [Numpy](https://colab.research.google.com/drive/1_6DqSqxVdTqlYMmWIfK-Qv2soZfKqknr)
-  * [Pandas](https://colab.research.google.com/drive/1WkKzB-IYSTxEgcGgaYbVvisdtRjOsDjP)
-  * [Pandas Practice](https://docs.google.com/document/d/1kJemEivhqu-ZUTUpCJWkvFJIM2zN0c3M/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
+  * [Numpy Notebook](https://colab.research.google.com/drive/1_6DqSqxVdTqlYMmWIfK-Qv2soZfKqknr)
+  * [Pandas Notebook](https://colab.research.google.com/drive/1WkKzB-IYSTxEgcGgaYbVvisdtRjOsDjP)
+  * [Pandas Notebook Practice](https://docs.google.com/document/d/1kJemEivhqu-ZUTUpCJWkvFJIM2zN0c3M/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
 * Datasets
   * [Titanic](https://drive.google.com/file/d/1faAdD3eiH1I6JszaT8W-aJ2MkUGnLrWP/view?usp=sharing)
   * [Covid](https://drive.google.com/file/d/1xp74Fos6icE6-rnmbMkpDQwv2ULyxxoR/view?usp=sharing)
