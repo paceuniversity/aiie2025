@@ -62,11 +62,10 @@
   * [Project presentation (slides)](https://docs.google.com/presentation/d/1WOlORtvljQqUyxUYM3u5oVcP9X7LotttIwVj8dy7Olc/edit?usp=sharing) 
 * Introduction to Google Gemini 
   * [Overview of Google Gemini and Gen AI for Images (slides)](https://docs.google.com/presentation/d/1yW-halc0XC2pXHPp5BUBHt0vW3RQEx0L/edit?slide=id.g134da1a804d_0_194#slide=id.g134da1a804d_0_194)
-  * [Image Generation Notebook](https://colab.research.google.com/drive/1LHSK6SOlZHQVS6C626NGKAK9nV_x_qU1?usp=sharing)
-  * [Image Generation and Editing](https://colab.research.google.com/drive/1QTLfNCaXV_LGryzjASACj0ndvT9_uFkg?usp=sharing)
-  * [Video Understanding](https://colab.research.google.com/drive/1S1bHdXrueQFtiMxD8R99DBUbm0rwfqsY?usp=sharing)
-  * [Text-to_Speech](https://colab.research.google.com/drive/1Ce1SMZhVx6hqdSkHpb8JMHQ0HOXaebC9?usp=sharing)
-  * [Music Generation](https://colab.research.google.com/drive/1g9C-M-VHxyl2ftZYNHSAnkia4L8XXL53?usp=sharing)
+  * [Image Generation and Editing Notebook](https://colab.research.google.com/drive/1LHSK6SOlZHQVS6C626NGKAK9nV_x_qU1?usp=sharing)
+  * [Video Understanding Notebook](https://colab.research.google.com/drive/1S1bHdXrueQFtiMxD8R99DBUbm0rwfqsY?usp=sharing)
+  * [Text-to_Speech Notebook](https://colab.research.google.com/drive/1Ce1SMZhVx6hqdSkHpb8JMHQ0HOXaebC9?usp=sharing)
+  * [Music Generation Notebook](https://colab.research.google.com/drive/1g9C-M-VHxyl2ftZYNHSAnkia4L8XXL53?usp=sharing)
 * NLP
   * [Generative AI Slides](https://docs.google.com/presentation/d/1Ax5MTiBuN5_w7qce1NU28Ka6XWUDKnZp/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
   * [Text Sentiment Analysis Notebook](https://drive.google.com/file/d/17HvJAyxknig1nyvjEyBCo_9Alwc4Maty/view?usp=sharing)
