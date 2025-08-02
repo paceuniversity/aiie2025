@@ -44,11 +44,11 @@
 * Images and Pillow
   * [Manipulating Images with Pillow Slides (slides)](https://docs.google.com/presentation/d/1_1a88EK0kytjKVKCC7S4VF2_4QpHQbSp1S1cubSvlRU/present)
   * [Manipulating Images with Pillow Notebook](https://bit.ly/imgfiltercolab)
-* **First team project:** Google Tools for Students
+* **First team project:** Google Tools
   * [Google Gemini for Students](https://gemini.google/students)
   * [Tool List and Assignment](https://docs.google.com/document/d/1cTK4GF2fc-lw-wU6Dl49xfqw6w55IzynnbGeP292ClI/edit?usp=sharing)
 * Tall Tower Team Exercise
-  * [Challenge Instructions](https://docs.google.com/presentation/d/1mS2YnVz2gEH-LoAqmwAdBE5Bc44whAdKmqRLyX0Tnb4/present)
+  * [Challenge Instructions (slides)](https://docs.google.com/presentation/d/1mS2YnVz2gEH-LoAqmwAdBE5Bc44whAdKmqRLyX0Tnb4/present)
 * Machine Learning
   * Linear Regression
     * [Linear Regression Slides](https://docs.google.com/presentation/d/15WdzPEqUXP6oBJ-UvsZiH_om8_jFqKxs/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
