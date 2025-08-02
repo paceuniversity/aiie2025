@@ -59,6 +59,7 @@
     * [CNN Cat vs. Dog Classification Notebook](https://drive.google.com/file/d/1CgxWLSib_cb-inFlwgxB3MVEM5rcHPSB/view?usp=sharing) 
     * [MNIST Classification Notebook](https://colab.research.google.com/drive/1kPpaksyGzVHJ0EAvOjy_fTf51Ch8rN6c)
 * **Second team project:** Classification
+  * [Project presentation (slides)](https://docs.google.com/presentation/d/1WOlORtvljQqUyxUYM3u5oVcP9X7LotttIwVj8dy7Olc/edit?usp=sharing) 
 * Introduction to Google Gemini 
   * [Overview of Google Gemini Slides](https://docs.google.com/presentation/d/1yW-halc0XC2pXHPp5BUBHt0vW3RQEx0L/edit?slide=id.g134da1a804d_0_194#slide=id.g134da1a804d_0_194)
   * [Image Generation Notebook](https://colab.research.google.com/drive/1LHSK6SOlZHQVS6C626NGKAK9nV_x_qU1?usp=sharing)
@@ -80,6 +81,7 @@
   * [Text-to-Image](https://colab.research.google.com/drive/1yHA_CinM1KUXxItohSlVCd1DJebv3nQi?usp=sharing)
   * [Conversational Agent](https://colab.research.google.com/drive/1M0Pq2ajXrHFjhrXGdDtY04IQxaB49BGs?usp=sharing)
 * **Third team project:** Generative AI
+  * [Project presentation (slides)](https://docs.google.com/presentation/d/1WOlORtvljQqUyxUYM3u5oVcP9X7LotttIwVj8dy7Olc/edit?usp=sharing) 
  
 ## Other Resources
 
