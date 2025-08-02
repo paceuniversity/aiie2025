@@ -1,0 +1,1001 @@
+StudentID,Name,Gender,Grade,Attendance,Subject
+1,Charlie,Male,69,,English
+2,Frank,M,55,71,Physics
+3,Charlie,Male,75,97,Math
+4,Alice,male,46,59,Biology
+5,Noah,Male,47,86,Math
+6,Alice,F,87,70,Biology
+7,Karen,female,71,61,Physics
+8,Frank,male,82,95,Physics
+9,Bob,Male,82,52,English
+10,Henry,M,56,86,Computer Science
+11,David,M,83,51,Computer Science
+12,Noah,male,78,79,Science
+13,Karen,Male,40,79,Science
+14,Frank,M,50,55,Computer Science
+15,Alice,Female,65,91,Physics
+16,Bob,Male,69,83,Chemistry
+17,Karen,Female,75,59,Biology
+18,Bob,female,69,55,Biology
+19,Alice,M,63,88,Chemistry
+20,Alice,M,96,79,English
+21,Eve,female,77,,English
+22,Noah,Male,98,88,Chemistry
+23,David,F,,99,History
+24,Olivia,male,88,61,Physics
+25,Bob,Male,54,76,Computer Science
+26,David,Male,32,60,History
+27,Frank,female,50,59,History
+28,Ivy,Female,41,98,Computer Science
+29,Grace,female,64,80,Biology
+30,Eve,Male,45,83,Science
+31,Frank,male,55,92,Math
+32,Eve,Female,74,98,Math
+33,Henry,male,60,,Biology
+34,Mia,female,58,72,Physics
+35,David,Female,57,84,Science
+36,Ivy,M,56,92,English
+37,Olivia,male,108,59,Physics
+38,Grace,male,50,99,Chemistry
+39,Grace,Male,59,81,Biology
+40,Noah,F,73,92,Biology
+41,Olivia,Female,58,66,Biology
+42,Olivia,male,37,59,Biology
+43,Mia,male,60,93,Computer Science
+44,Henry,male,65,87,English
+45,David,Female,87,76,Chemistry
+46,Frank,F,76,56,Math
+47,Noah,female,66,50,Biology
+48,Jack,male,89,54,Biology
+49,Alice,Male,76,98,Computer Science
+50,Grace,Male,73,65,Computer Science
+51,Karen,female,64,66,Science
+52,Bob,M,52,53,Chemistry
+53,Bob,M,68,69,History
+54,Eve,female,56,98,Computer Science
+55,Eve,Male,56,56,History
+56,Grace,female,70,69,History
+57,Henry,female,79,82,Math
+58,Alice,male,,72,Biology
+59,Frank,female,77,,Science
+60,Frank,Male,72,56,Physics
+61,Bob,M,55,98,History
+62,Henry,Male,73,83,Computer Science
+63,Eve,male,35,79,Physics
+,Grace,female,69,97,Science
+,Mia,female,58,95,Math
+66,Alice,M,,81,Chemistry
+67,David,male,61,58,Science
+68,Ivy,M,56,67,Chemistry
+69,Liam,female,70,99,Biology
+70,Grace,Male,47,52,English
+71,Ivy,female,49,96,History
+,Frank,Female,61,62,Chemistry
+73,Grace,female,37,55,History
+74,Karen,M,69,51,Science
+75,David,male,60,100,Math
+76,David,male,56,95,Physics
+77,,male,72,81,English
+78,Jack,M,38,98,Physics
+79,Noah,female,64,85,Computer Science
+80,Frank,Female,86,91,English
+81,Noah,Female,75,63,Chemistry
+82,Noah,M,77,60,Biology
+83,Karen,male,72,68,Science
+84,Bob,male,67,97,Science
+85,Karen,F,74,96,Chemistry
+86,Bob,Female,74,76,Chemistry
+87,Bob,Female,75,72,Chemistry
+88,Bob,Male,74,96,English
+89,Bob,F,62,96,Physics
+90,Frank,Female,47,88,Physics
+91,Jack,M,56,81,Chemistry
+92,Noah,F,69,92,Computer Science
+93,Grace,Female,55,85,History
+94,Eve,Male,60,53,Math
+95,David,M,76,85,Math
+96,Liam,Male,50,88,Physics
+97,Jack,female,63,60,History
+98,Charlie,Male,60,,Math
+99,David,male,45,67,Science
+100,Liam,female,58,99,Science
+101,Frank,female,63,62,English
+102,Liam,male,54,66,Computer Science
+103,Jack,M,79,58,Chemistry
+104,Eve,female,93,65,Science
+105,Alice,F,49,88,Science
+,Alice,female,95,51,Science
+107,Liam,M,52,80,Biology
+108,Eve,F,60,83,Science
+109,Ivy,Female,41,85,Computer Science
+110,Henry,female,57,95,Computer Science
+111,Mia,Male,78,95,History
+112,Mia,male,83,99,Science
+,Noah,female,47,97,Science
+114,David,male,82,71,Computer Science
+115,Bob,Female,60,88,Biology
+116,Ivy,male,72,94,Computer Science
+117,Ivy,M,77,87,Science
+118,Karen,F,81,59,Math
+119,Mia,F,57,95,Computer Science
+120,Henry,Female,42,80,Biology
+121,Mia,female,76,75,Science
+122,Grace,M,67,,Biology
+123,Karen,male,64,87,Physics
+124,Frank,F,,94,Math
+125,Eve,F,62,82,Physics
+126,Jack,Female,78,72,Science
+127,Alice,male,75,54,Computer Science
+128,Charlie,male,68,67,History
+129,Bob,Female,49,99,Chemistry
+130,Bob,M,81,63,Biology
+131,Mia,female,59,51,English
+132,Frank,M,66,90,Science
+133,Grace,female,68,62,English
+134,Alice,female,70,95,Computer Science
+135,Bob,F,56,82,Computer Science
+136,Olivia,Male,50,68,Math
+137,Eve,Female,76,53,Science
+138,Eve,Male,89,99,Science
+139,,male,59,97,Science
+140,Charlie,male,76,71,English
+141,Jack,male,61,64,Science
+142,Olivia,M,89,55,Computer Science
+143,Alice,Female,51,68,Science
+144,Eve,M,44,97,Science
+145,Grace,female,58,93,Computer Science
+146,Jack,M,54,81,Math
+147,Noah,F,47,92,History
+148,Frank,female,61,57,Math
+149,Grace,female,76,82,English
+150,Noah,male,39,75,Math
+151,Noah,Male,52,93,History
+152,Bob,M,87,84,Computer Science
+153,Karen,F,50,67,Biology
+154,Karen,Male,61,79,English
+155,Grace,F,71,61,Physics
+156,Noah,female,53,84,Chemistry
+157,Mia,female,52,64,Science
+158,Mia,male,76,50,Math
+159,Olivia,Male,,53,Chemistry
+160,Mia,female,33,77,History
+161,Charlie,F,51,74,Biology
+162,Bob,female,,66,Science
+163,Alice,Female,90,55,Chemistry
+164,Charlie,male,79,67,Science
+165,Liam,F,,87,English
+166,Frank,F,59,100,History
+167,Frank,Female,84,53,Science
+168,Charlie,male,84,64,Science
+169,Frank,Male,81,58,History
+170,Liam,male,57,91,Chemistry
+171,Noah,M,,87,Math
+172,David,Male,83,69,Physics
+173,Jack,Female,69,57,Math
+174,Grace,male,48,68,Biology
+175,Bob,female,64,69,Chemistry
+176,Olivia,Male,12,61,Computer Science
+177,Jack,F,74,78,Biology
+178,Noah,Male,69,64,History
+179,Ivy,Female,71,65,Computer Science
+180,Olivia,Female,52,81,Physics
+,Charlie,male,,64,Physics
+182,Frank,Female,48,85,Science
+183,Alice,Male,70,89,Math
+184,Noah,Female,77,51,Chemistry
+185,David,male,28,,Computer Science
+,Liam,F,50,64,History
+187,Eve,M,33,94,Chemistry
+188,Jack,female,88,,History
+189,David,Male,41,81,Science
+190,David,female,48,91,Chemistry
+191,Ivy,F,33,75,Biology
+192,Ivy,male,59,62,Computer Science
+193,Noah,Female,56,70,Physics
+194,Mia,Female,60,90,English
+195,Liam,F,65,54,Science
+196,Alice,M,56,70,Biology
+197,Frank,Male,70,80,Science
+198,Bob,Female,49,67,Computer Science
+199,Jack,M,107,,Math
+200,Ivy,M,50,86,Math
+201,Eve,F,61,55,Physics
+202,Noah,male,53,52,Biology
+203,Henry,Female,49,92,Science
+204,Ivy,Female,66,95,English
+205,Charlie,Male,34,60,English
+206,Ivy,F,51,96,Chemistry
+207,,female,88,91,Chemistry
+208,Karen,Female,81,55,Math
+209,Olivia,Female,84,51,History
+210,Bob,F,80,94,Physics
+211,Bob,female,65,80,Biology
+212,Grace,M,53,62,Computer Science
+213,Eve,Male,64,99,Science
+214,Eve,male,62,68,English
+215,Bob,female,39,74,Chemistry
+216,Grace,Male,70,81,Chemistry
+217,David,male,48,50,Math
+218,Alice,Male,37,,Science
+219,Olivia,female,43,52,Biology
+220,,female,89,79,English
+221,David,M,52,93,History
+222,Mia,Male,85,,Math
+223,Karen,Male,57,72,Biology
+224,Noah,Female,69,51,Chemistry
+225,Olivia,M,63,74,History
+226,Charlie,female,75,55,Math
+227,Liam,male,60,56,Computer Science
+228,Mia,Male,44,80,Biology
+229,Henry,Female,53,,History
+,Jack,M,63,69,Computer Science
+231,Jack,M,76,,English
+232,Bob,M,,71,English
+233,Frank,F,83,72,History
+234,Henry,Female,43,67,Physics
+235,Bob,Male,93,52,Math
+236,Grace,female,67,97,Math
+237,Jack,Female,,64,History
+238,Frank,male,85,86,Computer Science
+239,David,F,49,95,Biology
+240,Olivia,male,56,76,Chemistry
+241,Noah,Female,73,59,English
+242,Frank,male,89,,History
+243,Eve,female,73,62,English
+244,Alice,M,,99,Science
+245,Eve,M,37,70,History
+246,Ivy,Female,,69,English
+247,Frank,Male,61,,History
+248,Henry,Female,72,77,Computer Science
+249,Olivia,female,80,89,Science
+250,Mia,M,76,84,Chemistry
+251,Eve,F,71,74,English
+252,Jack,male,98,100,Physics
+253,Bob,M,,68,Physics
+254,Ivy,male,67,98,English
+255,Bob,Male,86,51,Science
+256,Liam,F,52,69,History
+257,Olivia,Male,49,79,Math
+258,Noah,Male,55,73,Computer Science
+259,Karen,M,46,70,Science
+260,Karen,female,73,87,English
+261,Grace,M,57,63,Science
+262,Karen,M,82,61,English
+263,Charlie,F,72,71,English
+264,Frank,Female,68,77,Computer Science
+265,Jack,F,86,66,Science
+266,David,Female,72,52,Biology
+267,Karen,F,78,91,Biology
+268,Olivia,Female,66,74,Computer Science
+269,Charlie,F,56,93,Science
+270,Charlie,male,77,57,Math
+271,Frank,female,78,83,Chemistry
+272,Karen,male,52,59,Math
+273,Eve,Female,64,55,Biology
+274,Olivia,male,60,54,English
+275,Jack,M,103,63,Science
+276,Mia,Male,103,78,Physics
+277,Charlie,male,61,66,History
+278,Henry,M,80,69,Chemistry
+279,Noah,male,69,77,Biology
+280,Frank,Female,63,70,English
+281,Eve,female,85,76,Physics
+282,Alice,M,71,84,History
+283,Bob,F,90,87,Science
+284,Liam,M,82,,Chemistry
+285,Bob,Female,,96,Physics
+286,Alice,Female,62,97,Science
+287,Henry,M,93,82,History
+288,Grace,M,68,73,Biology
+289,Alice,male,,82,Math
+290,Ivy,M,72,96,Math
+291,Jack,female,44,78,History
+292,Eve,F,68,93,Physics
+293,Alice,Female,45,91,Biology
+294,Charlie,female,83,84,English
+295,Olivia,female,65,51,Biology
+,Noah,Male,34,73,History
+297,Henry,F,68,77,Biology
+298,Henry,Female,88,90,Biology
+299,Bob,Male,61,88,Math
+300,Noah,F,61,92,Physics
+,Jack,Male,78,52,History
+302,David,male,87,82,Science
+303,Olivia,F,52,97,Science
+304,Liam,M,78,67,Chemistry
+305,David,M,49,80,Math
+306,Eve,female,51,54,English
+307,Charlie,M,28,,Biology
+308,Olivia,Female,50,73,History
+309,Karen,Male,82,76,History
+310,Alice,M,76,88,Math
+311,Grace,F,60,92,Math
+312,Ivy,F,53,65,Biology
+313,Eve,female,,95,Physics
+314,Charlie,female,56,64,Math
+315,Charlie,female,74,65,Computer Science
+316,Grace,male,80,77,Chemistry
+317,Jack,male,68,84,Computer Science
+318,Olivia,M,42,79,History
+319,Mia,Male,50,73,Biology
+320,Alice,male,31,67,Physics
+321,Jack,M,52,71,English
+322,Charlie,female,64,68,Biology
+323,David,male,96,92,English
+324,Eve,female,55,98,History
+,Alice,Male,42,91,History
+326,Frank,M,72,98,Physics
+327,Olivia,female,56,56,Science
+328,Karen,F,74,65,Math
+329,Noah,F,72,96,Chemistry
+330,Eve,Male,59,97,History
+331,Karen,Male,52,90,English
+332,Alice,F,33,99,Physics
+333,Grace,Female,86,97,Biology
+334,Charlie,Male,90,81,Physics
+335,Charlie,F,60,59,English
+336,Eve,M,39,56,Science
+337,Frank,female,90,80,Physics
+338,Frank,M,71,75,Biology
+339,Jack,Male,73,69,Chemistry
+340,Eve,Male,33,53,Chemistry
+341,Charlie,M,52,81,History
+342,Liam,Male,60,83,English
+343,Alice,F,54,90,Biology
+344,Henry,Male,49,53,Computer Science
+345,Henry,male,57,72,Biology
+346,Bob,male,62,53,English
+347,Noah,F,70,,English
+348,Henry,F,69,80,History
+349,Jack,Male,82,83,Computer Science
+350,Eve,male,61,95,English
+351,Alice,Male,,84,Math
+352,Henry,Male,61,81,English
+353,Bob,M,45,96,Chemistry
+354,Alice,male,101,87,History
+,Eve,male,65,66,English
+356,Noah,F,59,57,Science
+357,Noah,M,40,95,English
+358,Jack,male,89,94,Biology
+359,Jack,Male,73,93,Math
+360,Eve,M,73,83,English
+361,Noah,F,23,86,History
+362,Noah,M,48,95,Math
+363,Bob,M,86,73,Physics
+364,Frank,F,72,83,Science
+365,Alice,M,72,53,Computer Science
+366,Frank,M,92,90,History
+367,Eve,Female,90,65,Science
+368,Liam,female,89,50,Science
+369,Alice,male,57,64,English
+370,Mia,Male,65,67,Chemistry
+371,Ivy,female,81,98,Science
+372,Henry,M,52,96,Science
+373,Frank,M,68,62,Physics
+374,Charlie,female,88,93,Physics
+375,Noah,Male,63,62,Biology
+376,Charlie,Male,52,99,English
+377,Henry,male,47,56,Computer Science
+378,Jack,M,54,78,English
+379,Henry,F,60,54,History
+380,Henry,female,69,84,English
+381,Noah,male,83,53,Computer Science
+382,Frank,F,51,77,Computer Science
+383,Bob,male,74,56,Computer Science
+384,,F,80,94,Math
+385,Ivy,M,73,62,Chemistry
+386,Charlie,M,68,64,Science
+387,Liam,male,71,83,Physics
+388,Grace,male,61,92,Science
+389,Charlie,M,73,80,History
+390,Eve,F,73,95,History
+391,Olivia,Female,58,58,English
+392,Charlie,F,67,96,Computer Science
+393,Alice,Female,42,63,Math
+394,Bob,M,53,69,History
+395,Jack,male,33,63,Science
+396,Grace,Female,65,97,Math
+397,Henry,female,54,94,Computer Science
+398,Ivy,F,84,96,Science
+399,Mia,Male,73,86,Math
+400,Liam,Female,65,87,Biology
+401,Olivia,male,59,85,Biology
+402,Olivia,female,65,70,Computer Science
+403,Noah,male,67,55,Science
+404,Noah,male,67,70,History
+405,Mia,Male,75,92,History
+406,,M,50,78,Biology
+407,Frank,F,60,75,Physics
+408,Jack,F,56,64,Science
+409,Liam,Female,62,80,Biology
+410,Noah,Female,67,86,Chemistry
+411,Frank,M,97,72,Physics
+412,Noah,male,65,61,Computer Science
+413,Henry,M,71,94,English
+414,Ivy,female,65,80,Biology
+415,Olivia,Female,93,61,Chemistry
+416,Noah,M,56,59,Chemistry
+417,Ivy,female,33,55,Physics
+418,Henry,Male,57,57,Math
+419,Bob,female,66,79,Computer Science
+420,Mia,male,90,95,Biology
+421,Grace,Male,78,59,English
+422,Henry,Male,47,51,Biology
+423,David,male,44,71,English
+424,Mia,M,56,50,Computer Science
+425,Bob,Female,56,80,History
+426,Charlie,M,82,82,Science
+427,Henry,M,62,75,Chemistry
+428,Ivy,M,63,62,History
+,Karen,Male,24,,Physics
+430,Noah,Male,50,91,Biology
+431,David,F,82,60,Math
+432,Charlie,female,81,96,Physics
+433,Mia,Male,53,87,Physics
+434,Olivia,male,75,91,Physics
+435,David,Male,57,50,History
+436,Henry,Female,58,94,Biology
+437,Liam,Female,69,98,Computer Science
+438,Eve,male,52,,History
+439,Jack,M,66,79,Physics
+440,Noah,F,90,74,History
+441,Bob,female,77,91,English
+442,Bob,F,82,61,Chemistry
+443,Mia,Male,83,92,History
+444,Ivy,male,61,53,Chemistry
+445,Olivia,M,61,79,Science
+446,Alice,Male,57,70,Science
+447,David,Male,50,96,Biology
+448,Karen,Male,53,98,Science
+449,Eve,Male,82,97,Computer Science
+450,Eve,Female,61,94,History
+451,Olivia,male,66,69,Math
+452,Grace,male,82,,Chemistry
+453,Jack,female,89,71,Physics
+454,Bob,female,68,,Physics
+455,Jack,Male,60,51,Science
+456,Ivy,Male,55,92,Science
+457,Olivia,F,57,87,Physics
+458,Jack,male,75,93,Chemistry
+459,Henry,M,66,73,Math
+460,Liam,male,74,88,Math
+461,Karen,male,64,59,Science
+462,Henry,female,41,51,Chemistry
+463,David,female,57,97,Computer Science
+464,Frank,male,65,79,Math
+465,Mia,Male,73,79,Science
+466,Frank,Female,86,99,Computer Science
+467,Olivia,female,67,69,Math
+468,Olivia,female,80,83,Science
+469,Bob,female,62,63,Math
+470,Karen,Male,67,76,Science
+471,Liam,Female,82,61,Science
+472,Karen,female,,88,Chemistry
+,Karen,Male,100,,Math
+474,Olivia,F,78,95,History
+475,Alice,M,62,74,English
+476,Liam,male,69,96,Chemistry
+477,Karen,M,79,98,Computer Science
+478,Karen,Female,78,87,English
+479,Ivy,F,55,60,Science
+480,Frank,female,62,82,Chemistry
+481,Mia,M,69,97,Computer Science
+482,Frank,male,57,70,Science
+483,Ivy,M,35,84,Biology
+484,Grace,male,62,94,Biology
+485,Liam,F,66,61,Chemistry
+486,Karen,M,86,96,Science
+487,David,F,58,78,Computer Science
+488,Eve,M,56,53,Chemistry
+489,Olivia,Female,53,79,History
+490,Liam,female,64,92,Computer Science
+491,Mia,Female,66,59,English
+492,Frank,female,,59,Math
+493,Karen,Female,84,61,Biology
+494,Jack,Female,75,85,History
+495,Liam,Female,92,69,Biology
+496,Karen,Male,61,76,Computer Science
+497,Jack,Female,72,74,English
+498,Jack,female,70,100,Physics
+499,Jack,Female,,81,Physics
+500,Ivy,Male,73,90,Computer Science
+501,,M,81,79,Chemistry
+502,Ivy,M,78,91,Science
+503,Liam,M,72,65,Physics
+504,Mia,male,41,72,History
+505,Mia,Male,89,95,English
+506,Liam,male,87,63,English
+507,Eve,M,52,63,English
+508,Charlie,Female,77,97,History
+509,,Female,113,64,Computer Science
+510,David,Male,68,89,History
+511,,F,75,85,Math
+512,Jack,F,52,82,English
+513,Mia,F,96,87,Physics
+514,Frank,Female,70,84,Computer Science
+515,David,Male,22,99,English
+516,Charlie,M,76,97,Math
+517,Charlie,Female,75,98,English
+518,Noah,Female,65,90,Computer Science
+519,Olivia,male,66,74,Computer Science
+520,David,male,51,58,Physics
+521,Henry,male,75,85,Biology
+522,Mia,female,76,58,Computer Science
+523,Mia,female,35,76,Biology
+524,Mia,male,49,57,Chemistry
+525,Olivia,M,69,78,English
+526,Olivia,M,74,89,English
+527,Ivy,F,63,73,English
+528,Jack,M,58,71,English
+529,Karen,male,44,61,English
+530,Frank,F,66,86,Science
+531,Frank,Female,75,80,Science
+532,Alice,M,51,71,Chemistry
+533,Charlie,Male,67,52,Computer Science
+534,Henry,Female,76,76,Computer Science
+535,Jack,M,,56,Physics
+536,Olivia,male,47,61,Chemistry
+537,Liam,M,47,92,Physics
+,Bob,Female,54,71,English
+539,David,F,87,98,Math
+540,Karen,Female,60,76,Chemistry
+541,Karen,Female,56,,Physics
+542,Liam,M,66,88,Chemistry
+543,Charlie,male,64,96,Physics
+544,Grace,M,71,88,Computer Science
+545,Charlie,M,63,,Physics
+546,Charlie,M,96,64,Science
+547,Charlie,Female,93,51,Chemistry
+548,Charlie,Female,59,58,Physics
+549,Olivia,Male,74,88,Math
+550,Bob,F,78,58,English
+551,Bob,male,66,72,Physics
+552,Charlie,female,86,87,Science
+553,Olivia,M,77,84,Science
+554,Grace,M,60,74,History
+555,Karen,male,62,88,History
+,Grace,M,64,88,Math
+557,Olivia,female,37,,History
+558,Frank,Male,71,74,Physics
+559,Eve,F,52,74,Science
+560,Eve,F,64,56,English
+561,Karen,female,61,73,Biology
+,Eve,F,66,71,Biology
+563,Grace,Male,61,57,Physics
+564,Eve,male,100,93,Computer Science
+565,Olivia,Male,45,96,History
+566,Ivy,female,65,91,History
+567,Frank,F,54,58,Math
+568,Bob,female,51,54,English
+569,Karen,Female,52,75,English
+570,Olivia,M,58,92,Computer Science
+571,Jack,male,52,84,Physics
+572,Jack,female,55,62,History
+573,Jack,Female,76,83,History
+574,Charlie,male,63,63,Biology
+575,Karen,M,69,53,History
+576,Olivia,female,48,72,Science
+577,Liam,M,69,92,Biology
+578,Olivia,female,49,87,English
+579,David,Female,,,History
+580,Bob,male,66,100,History
+581,Grace,male,57,99,English
+582,Frank,F,79,58,Chemistry
+583,Eve,Female,42,62,English
+584,Jack,M,51,79,Biology
+585,Mia,female,99,59,Physics
+586,Alice,M,63,,Physics
+587,Liam,Male,56,52,History
+588,Alice,Male,76,75,Chemistry
+589,Henry,female,75,89,Chemistry
+590,Henry,male,76,,Computer Science
+591,Olivia,female,80,85,Math
+592,Bob,Male,54,73,History
+593,Eve,Male,64,68,Physics
+,Alice,Male,64,55,Science
+595,Olivia,Male,81,52,English
+596,Henry,Female,81,97,Chemistry
+597,Ivy,male,66,63,Computer Science
+598,Liam,female,51,57,Chemistry
+599,Charlie,female,,98,History
+600,Jack,male,72,53,Science
+601,David,Male,60,66,Biology
+602,Liam,M,59,99,English
+603,Noah,male,54,88,English
+604,Bob,female,67,50,Science
+605,Jack,F,48,55,Science
+606,David,M,34,,Computer Science
+,Eve,F,81,60,Computer Science
+608,Alice,Male,74,52,Math
+609,Olivia,Female,52,87,Computer Science
+610,Henry,female,58,82,Physics
+611,Charlie,F,76,76,Chemistry
+612,Grace,female,87,54,Chemistry
+613,Grace,F,71,99,Biology
+614,Ivy,Male,50,62,Biology
+615,Noah,female,79,65,Science
+616,Bob,F,85,53,History
+617,Eve,Male,61,65,Physics
+618,Mia,Female,,52,History
+619,Henry,F,75,,Biology
+620,Charlie,Male,51,55,Chemistry
+621,Grace,F,93,97,Chemistry
+622,,F,55,60,Chemistry
+623,,female,62,84,Biology
+624,Alice,Female,60,62,Biology
+625,Henry,F,66,69,Computer Science
+626,Henry,Female,73,90,Computer Science
+627,Alice,F,,96,Science
+628,Jack,female,59,71,Computer Science
+629,Henry,Female,57,60,English
+630,Henry,female,35,94,Math
+631,Eve,male,45,94,History
+632,Charlie,F,84,82,Math
+633,Mia,Female,44,78,English
+634,Henry,M,72,73,English
+635,Henry,female,65,54,Math
+636,Charlie,male,72,54,Math
+637,Jack,F,71,66,Computer Science
+638,Mia,female,61,93,Biology
+639,Mia,male,93,50,English
+640,Frank,M,69,70,Biology
+641,Eve,Female,,84,Chemistry
+642,Jack,Male,40,57,Science
+643,Bob,M,68,57,Math
+644,Charlie,F,61,96,Science
+645,Frank,F,82,55,Biology
+646,Bob,Male,74,64,Science
+647,Henry,M,50,84,Chemistry
+648,Mia,Male,68,59,English
+649,Alice,male,,67,Physics
+650,Bob,male,64,79,History
+651,Frank,Male,72,86,Physics
+652,,female,68,54,Physics
+653,Henry,M,59,58,Chemistry
+654,Noah,F,76,52,Biology
+655,Karen,F,56,83,Computer Science
+656,Karen,Male,71,61,History
+657,Alice,M,74,92,History
+658,Jack,Male,94,64,History
+659,Liam,Female,51,98,Biology
+660,Karen,female,77,52,Chemistry
+661,Alice,male,81,52,Math
+662,Mia,female,62,60,Biology
+663,Jack,Female,58,97,Chemistry
+664,Eve,Male,50,97,Science
+665,Eve,female,47,73,Physics
+666,Frank,F,63,56,Physics
+,David,F,57,64,Science
+668,Eve,female,43,62,Math
+669,Charlie,F,68,69,Computer Science
+670,Frank,Male,65,87,Biology
+671,Noah,Female,78,91,History
+672,Mia,M,90,88,Chemistry
+673,Frank,Female,66,93,Physics
+674,Noah,Male,80,71,Math
+675,Ivy,Male,75,62,English
+676,David,Male,53,50,Science
+677,Bob,Male,73,66,Biology
+678,Henry,female,65,57,History
+679,Eve,M,73,86,History
+680,Liam,M,76,69,Chemistry
+681,Liam,male,80,64,Biology
+682,Karen,male,34,85,Computer Science
+683,Charlie,male,42,99,Math
+684,Olivia,Male,90,51,History
+685,Grace,Male,,,Biology
+686,Karen,Female,57,90,Computer Science
+687,Henry,Male,68,78,Computer Science
+688,Alice,female,,75,Science
+689,Noah,F,52,87,Science
+,Mia,F,76,66,History
+691,Jack,Male,59,72,Physics
+692,Olivia,Female,34,61,Math
+693,Grace,M,79,79,Physics
+694,Ivy,Male,57,82,English
+695,Olivia,M,86,65,Computer Science
+696,Noah,female,76,94,Biology
+697,Noah,M,69,99,Biology
+698,Jack,male,65,86,Computer Science
+699,Liam,M,74,70,Math
+700,Frank,male,66,54,Science
+701,Jack,Male,75,61,Biology
+,Charlie,male,59,75,English
+703,Grace,male,54,79,Science
+704,Bob,Male,87,93,Biology
+705,Grace,male,61,52,English
+706,Jack,Female,74,84,Chemistry
+707,Jack,M,56,98,English
+708,Bob,female,55,89,Math
+709,Alice,F,85,69,Math
+710,Mia,Female,62,86,Computer Science
+711,Bob,F,48,86,Science
+712,David,Female,55,85,Chemistry
+713,Karen,M,68,84,Math
+714,Alice,Male,43,53,Math
+715,Ivy,male,53,72,Physics
+716,Noah,male,107,97,Math
+717,David,male,57,83,History
+718,Mia,male,53,68,Biology
+719,Frank,Male,72,62,Physics
+720,Henry,female,50,55,Computer Science
+721,Grace,Female,,51,Biology
+722,Karen,F,67,53,Chemistry
+723,Grace,Female,42,93,Science
+724,Liam,Female,59,78,Computer Science
+725,Charlie,male,82,57,English
+726,Charlie,M,86,82,Chemistry
+727,Frank,male,41,62,Biology
+728,Mia,female,87,67,English
+729,Mia,female,62,71,Chemistry
+730,Mia,female,63,64,English
+731,Liam,female,46,94,Science
+732,Charlie,female,70,52,Science
+733,Noah,female,33,,Science
+734,Liam,Female,77,62,Science
+735,Karen,M,100,,Chemistry
+736,,male,47,87,Chemistry
+737,David,F,58,53,Computer Science
+738,Grace,M,53,71,Chemistry
+739,Bob,female,65,96,Chemistry
+740,Liam,M,101,60,Chemistry
+741,Jack,male,43,73,Biology
+742,Eve,female,76,74,Physics
+,Liam,female,71,85,History
+,Alice,female,53,59,Biology
+745,Noah,female,72,,History
+746,Jack,F,52,64,English
+747,Charlie,female,62,74,Chemistry
+748,Alice,Male,55,83,Biology
+749,,Male,82,65,Computer Science
+750,Alice,female,91,86,Physics
+751,David,Male,70,97,History
+752,Alice,female,48,74,English
+753,Grace,Male,66,,English
+754,Jack,female,,85,Science
+755,,M,79,67,Chemistry
+756,Karen,Female,63,72,Biology
+757,Henry,Female,87,53,Biology
+758,Jack,Male,59,61,Math
+759,Jack,Female,91,99,English
+760,Grace,M,76,73,English
+761,Olivia,F,61,97,Physics
+762,Grace,male,75,62,Computer Science
+763,Charlie,F,51,88,Biology
+764,Liam,Female,47,66,Math
+765,David,F,75,54,Physics
+766,Mia,Female,65,63,Physics
+767,Charlie,female,25,92,Chemistry
+768,Olivia,M,72,54,Biology
+769,Karen,F,74,57,Computer Science
+770,Olivia,Female,76,88,Science
+771,Frank,Male,45,60,Chemistry
+772,Jack,Male,49,74,Science
+773,Mia,male,,51,History
+774,Jack,F,56,94,Computer Science
+775,Charlie,Male,77,61,Math
+776,Noah,M,70,90,History
+777,Henry,M,,68,Math
+778,Jack,F,59,82,Biology
+779,David,Female,74,83,Chemistry
+780,Liam,F,71,84,Science
+781,Jack,female,74,88,Biology
+782,Eve,Male,56,71,Chemistry
+783,Charlie,M,61,70,Physics
+784,Bob,Male,88,97,History
+785,Grace,Male,44,76,Physics
+786,Henry,Female,81,68,English
+787,Liam,M,97,74,Science
+788,Henry,male,92,70,Biology
+789,Alice,female,43,95,Physics
+790,David,male,52,87,Science
+791,Charlie,male,54,94,Chemistry
+792,David,female,64,55,Science
+793,Frank,F,54,70,History
+794,Mia,M,79,,Math
+795,Olivia,female,74,73,Computer Science
+796,Jack,Female,,93,English
+797,Frank,Female,62,89,History
+798,David,male,44,51,English
+799,Henry,male,74,79,Math
+800,Olivia,Male,66,76,Physics
+801,Frank,male,,62,Computer Science
+802,,F,60,77,Chemistry
+803,Alice,Female,53,97,English
+804,Alice,M,72,97,English
+805,Olivia,Male,37,87,Computer Science
+806,Bob,Female,39,51,Math
+807,Noah,M,37,51,English
+808,Bob,female,67,63,Chemistry
+809,Eve,M,70,63,Biology
+810,Liam,female,70,58,Science
+811,Eve,F,,60,Physics
+812,David,female,77,87,Chemistry
+813,Ivy,Male,72,87,Chemistry
+814,Liam,female,74,,History
+815,Eve,M,71,64,Biology
+816,Ivy,Male,88,93,Science
+817,David,F,58,62,Math
+818,Noah,female,78,88,English
+819,Alice,F,72,75,Science
+820,Liam,F,42,57,Physics
+821,Bob,F,60,71,English
+,Alice,Male,81,,Science
+823,Mia,Male,52,,Science
+824,Frank,male,60,88,History
+825,Alice,Male,74,54,Science
+826,Mia,male,52,86,Science
+827,Frank,Female,68,72,History
+828,Alice,female,66,97,History
+829,David,Male,51,75,Computer Science
+830,Mia,M,81,94,Physics
+831,Frank,Female,63,93,Chemistry
+832,,Female,59,73,Biology
+,Mia,F,63,55,Physics
+834,Olivia,male,49,59,Science
+835,Jack,Female,74,91,History
+836,Alice,Female,46,76,Physics
+837,Alice,Female,52,63,Physics
+838,Bob,Male,63,69,Science
+839,Charlie,male,74,64,Physics
+840,Bob,F,62,92,Chemistry
+841,David,Male,102,76,Science
+842,Henry,male,67,99,Biology
+843,Alice,Male,74,,Math
+844,Frank,F,92,92,Science
+845,Bob,male,106,54,English
+846,Karen,Male,58,,Biology
+847,Henry,F,101,75,Physics
+848,Henry,female,81,81,Computer Science
+849,Noah,Female,88,53,Science
+850,David,female,51,67,Computer Science
+851,Charlie,female,76,82,Math
+852,David,male,66,78,Physics
+853,Eve,M,60,94,Science
+854,Liam,Male,83,66,History
+855,Charlie,Male,62,52,History
+856,Bob,male,72,60,History
+857,Bob,F,54,77,English
+858,Grace,female,71,79,Computer Science
+859,Henry,F,81,54,Math
+860,Bob,F,68,59,Science
+861,Henry,Female,98,,Biology
+862,Charlie,male,64,73,English
+863,Grace,M,65,94,English
+864,Mia,Male,57,66,Physics
+865,Alice,F,67,70,Science
+866,Karen,female,70,54,English
+867,Bob,F,56,80,Science
+868,Olivia,male,75,,Chemistry
+869,,F,51,,Computer Science
+870,Liam,Male,40,56,Science
+871,Karen,F,74,55,Science
+872,Frank,Male,52,70,History
+,Frank,male,70,77,Physics
+874,Olivia,Female,88,80,Computer Science
+875,Olivia,F,99,68,Chemistry
+,Grace,F,,83,Science
+877,Liam,Male,61,74,Chemistry
+878,Ivy,female,94,85,History
+879,Noah,Male,58,91,History
+880,Ivy,M,63,53,Math
+881,Eve,F,81,58,Math
+882,Grace,male,58,99,Science
+883,Grace,Female,66,,Computer Science
+884,Charlie,female,87,97,Chemistry
+885,Bob,Female,70,59,Physics
+886,David,Female,82,87,Biology
+887,Noah,M,91,,History
+888,Alice,F,65,97,Math
+889,Eve,M,52,61,History
+890,Grace,male,65,58,Biology
+891,Frank,Female,59,55,History
+892,Jack,Female,79,78,Math
+893,Olivia,Male,88,70,English
+894,Liam,Male,69,94,Computer Science
+895,Noah,female,48,70,Chemistry
+896,Grace,female,87,54,Biology
+897,Noah,M,40,76,Computer Science
+898,Ivy,F,75,84,History
+899,Olivia,M,57,72,Biology
+900,Charlie,M,52,62,Physics
+901,Ivy,female,64,84,Computer Science
+902,Noah,male,95,53,Science
+903,Olivia,M,75,90,Computer Science
+904,Eve,Male,,77,Physics
+905,Jack,female,57,72,Science
+906,Grace,F,54,88,Science
+907,Liam,male,66,86,History
+908,David,M,58,78,History
+909,Bob,M,35,66,Chemistry
+910,David,Male,43,93,History
+911,Eve,female,74,85,Biology
+912,Eve,Male,63,72,Chemistry
+913,Ivy,F,80,94,Physics
+914,Bob,M,71,58,Chemistry
+915,Ivy,male,82,61,History
+916,Liam,male,68,72,Math
+917,Karen,Male,69,69,Physics
+918,Ivy,M,70,51,Computer Science
+,Ivy,F,59,54,Chemistry
+920,Bob,Male,72,85,Chemistry
+921,Liam,M,76,,History
+922,Bob,female,96,61,Chemistry
+923,Frank,Male,66,91,Physics
+924,David,Female,71,83,Science
+925,Noah,M,71,97,Chemistry
+926,Jack,Female,55,61,Science
+927,Charlie,Female,107,72,Chemistry
+928,Jack,Female,56,70,English
+929,Liam,M,75,97,Physics
+930,Grace,female,67,54,Biology
+931,Henry,Female,84,96,English
+932,David,female,51,74,English
+933,Alice,F,43,74,Math
+934,Karen,Male,46,82,Math
+935,Jack,male,50,50,Science
+936,David,Male,63,68,Physics
+937,Henry,Male,76,91,Computer Science
+938,Noah,M,63,82,Math
+939,Eve,Male,50,83,Biology
+940,Jack,Female,101,66,Math
+941,Eve,Female,23,79,Math
+942,Mia,male,64,87,Science
+943,Noah,Male,,71,Biology
+944,Bob,male,47,55,English
+945,Henry,Male,80,55,Chemistry
+946,Frank,Female,57,66,Physics
+947,Alice,M,47,63,Physics
+948,Jack,female,57,87,Chemistry
+949,Noah,female,70,80,Science
+950,Charlie,Female,51,81,History
+,Jack,M,79,95,Math
+952,Liam,Male,76,79,English
+953,Olivia,F,63,61,Physics
+954,Olivia,F,79,98,Chemistry
+955,Alice,female,70,88,English
+956,Jack,F,68,58,Biology
+957,Ivy,female,81,95,History
+958,Mia,F,59,,Math
+959,Frank,male,86,89,Biology
+,Karen,Female,76,70,Physics
+961,Bob,Male,87,77,History
+962,Frank,female,,71,Physics
+963,Karen,Male,73,69,Chemistry
+964,Ivy,Female,75,85,Science
+965,Noah,female,61,68,English
+966,Liam,male,47,74,History
+967,Liam,Male,60,80,History
+968,Alice,Female,,92,Physics
+969,Olivia,F,63,50,Science
+970,Ivy,Female,65,95,History
+,Alice,Male,56,85,Computer Science
+972,Eve,Female,79,76,History
+973,Jack,M,27,67,Science
+974,Grace,Male,86,80,Physics
+975,Grace,F,49,,History
+976,Liam,F,88,77,History
+977,Bob,female,72,89,Chemistry
+978,Henry,Male,98,61,English
+979,Liam,Male,56,74,English
+980,David,male,80,53,Biology
+981,Grace,Male,50,82,Computer Science
+982,Charlie,male,,70,History
+983,Liam,M,63,62,History
+984,Mia,Male,83,94,Computer Science
+985,Alice,male,83,83,Biology
+986,Ivy,Male,,60,Science
+987,Mia,female,67,88,Physics
+988,Jack,F,66,77,English
+989,Charlie,female,75,93,History
+990,Henry,female,64,,Chemistry
+991,Olivia,M,75,69,Computer Science
+992,Bob,M,,63,Physics
+993,Eve,M,53,76,Science
+994,Frank,male,31,,Math
+995,Karen,F,101,58,Biology
+996,Jack,male,77,60,Chemistry
+997,Charlie,Male,63,71,Science
+998,Noah,female,51,79,Math
+999,Charlie,Male,52,73,English
+1000,Frank,female,54,62,Math
