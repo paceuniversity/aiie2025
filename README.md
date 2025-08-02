@@ -51,7 +51,7 @@
   * [Challenge Instructions (slides)](https://docs.google.com/presentation/d/1mS2YnVz2gEH-LoAqmwAdBE5Bc44whAdKmqRLyX0Tnb4/present)
 * Machine Learning
   * Linear Regression
-    * [Linear Regression Slides](https://docs.google.com/presentation/d/15WdzPEqUXP6oBJ-UvsZiH_om8_jFqKxs/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
+    * [Linear Regression (slides)](https://docs.google.com/presentation/d/15WdzPEqUXP6oBJ-UvsZiH_om8_jFqKxs/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
     * [Linear Regression Notebook](https://drive.google.com/file/d/1Re9hytp7VzWhSEtj4g4CPOhIwSenazyx/view?usp=sharing)
   * CNN
     * [Neural Networks Slides](https://docs.google.com/presentation/d/13iChhAaJHpvnZdknWBVhNG4VS4WY9Bxn/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
