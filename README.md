@@ -24,8 +24,8 @@
 
 ## Slides & Google Colab Notebooks
 
-* [Presentation of the Program](https://docs.google.com/presentation/d/1mXs8x03CNAjjxBTiG6ulTVpsa-6LVy1h/present)
-* [Git / GitHub](https://docs.google.com/presentation/d/1QrUF5VkxmcPVTuK3uwPpu2BEuMMzvJUvMagqOTXlUpw/present)
+* [Presentation of the Program (slides)](https://docs.google.com/presentation/d/1mXs8x03CNAjjxBTiG6ulTVpsa-6LVy1h/present)
+* [Git / GitHub (slides)](https://docs.google.com/presentation/d/1QrUF5VkxmcPVTuK3uwPpu2BEuMMzvJUvMagqOTXlUpw/present)
 * Review of Python
   * [Data Types Notebook](https://colab.research.google.com/drive/1G1_RV6o8__wldSdG9ebppcA6_IOIM0-k)
   * [Operators Notebook](https://colab.research.google.com/drive/1-xB1lUb_30c4ua7RdvYhWwd9dcUsVeWg)
@@ -36,13 +36,13 @@
   * [Test your skills 1 Notebook](https://colab.research.google.com/drive/1of3ofPbaCMLLRGxYngXaK8NjqLXPeesS?usp=sharing)
   * [Test your skills 2 Notebook](https://colab.research.google.com/drive/1TaJ7gjhtNIvPNJDbJzJY6YBNRKJh_ndx?usp=sharing)
 * Agile Methodologies
-  * [Agile Methodologies & Scrum](https://docs.google.com/presentation/d/13GKbuR_8ylKtdVQJ2RFiif0dv7dr3BQLEpecwSXjbiM/present)
+  * [Agile Methodologies & Scrum (slides)](https://docs.google.com/presentation/d/13GKbuR_8ylKtdVQJ2RFiif0dv7dr3BQLEpecwSXjbiM/present)
 * Numpy and Pandas
   * [Numpy Notebook](https://colab.research.google.com/drive/1_6DqSqxVdTqlYMmWIfK-Qv2soZfKqknr)
   * [Pandas Notebook](https://colab.research.google.com/drive/1WkKzB-IYSTxEgcGgaYbVvisdtRjOsDjP)
   * [Pandas Notebook Practice](https://docs.google.com/document/d/1kJemEivhqu-ZUTUpCJWkvFJIM2zN0c3M/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
 * Images and Pillow
-  * [Manipulating Images with Pillow Slides](https://docs.google.com/presentation/d/1_1a88EK0kytjKVKCC7S4VF2_4QpHQbSp1S1cubSvlRU/present)
+  * [Manipulating Images with Pillow Slides (slides)](https://docs.google.com/presentation/d/1_1a88EK0kytjKVKCC7S4VF2_4QpHQbSp1S1cubSvlRU/present)
   * [Manipulating Images with Pillow Notebook](https://bit.ly/imgfiltercolab)
 * **First team project:** Google Tools for Students
   * [Google Gemini for Students](https://gemini.google/students)
