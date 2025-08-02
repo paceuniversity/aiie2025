@@ -31,7 +31,7 @@
   * [Operators Notebook](https://colab.research.google.com/drive/1-xB1lUb_30c4ua7RdvYhWwd9dcUsVeWg)
   * [Control Statements Notebook](https://colab.research.google.com/drive/1ItP4wQYpvgdpkdtxn0jo4Qc_wJWxf1fU)
   * [Methods and Functions Notebook](https://colab.research.google.com/drive/159kQdFtvTqQIQmVrTNNgjY_XLBcFZfl7?usp=sharing)
-  * [Classes](https://colab.research.google.com/drive/159kQdFtvTqQIQmVrTNNgjY_XLBcFZfl7?usp=sharing)
+  * [Classes](https://colab.research.google.com/drive/1K9eAaCONdEARKY0wu2kxGEKZMnYDKToa)
 * Test your Python Skills with these Google Colab Notebooks
   * [Test your skills 1](https://colab.research.google.com/drive/1of3ofPbaCMLLRGxYngXaK8NjqLXPeesS?usp=sharing)
   * [Test your skills 2](https://colab.research.google.com/drive/1TaJ7gjhtNIvPNJDbJzJY6YBNRKJh_ndx?usp=sharing)
