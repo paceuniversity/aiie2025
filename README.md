@@ -54,8 +54,8 @@
     * [Linear Regression (slides)](https://docs.google.com/presentation/d/15WdzPEqUXP6oBJ-UvsZiH_om8_jFqKxs/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
     * [Linear Regression Notebook](https://drive.google.com/file/d/1Re9hytp7VzWhSEtj4g4CPOhIwSenazyx/view?usp=sharing)
   * CNN
-    * [Neural Networks Slides](https://docs.google.com/presentation/d/13iChhAaJHpvnZdknWBVhNG4VS4WY9Bxn/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
-    * [CNN Slides](https://docs.google.com/presentation/d/1X6zsjnJya32G60dbkWGHsdN-KJZU1fvA/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
+    * [Neural Networks (slides)](https://docs.google.com/presentation/d/13iChhAaJHpvnZdknWBVhNG4VS4WY9Bxn/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
+    * [CNN (slides)](https://docs.google.com/presentation/d/1X6zsjnJya32G60dbkWGHsdN-KJZU1fvA/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
     * [CNN Cat vs. Dog Classification Notebook](https://drive.google.com/file/d/1CgxWLSib_cb-inFlwgxB3MVEM5rcHPSB/view?usp=sharing) 
     * [MNIST Classification Notebook](https://drive.google.com/file/d/1kPpaksyGzVHJ0EAvOjy_fTf51Ch8rN6c/view?usp=sharing)
 * Introduction to Google Gemini 
