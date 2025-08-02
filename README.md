@@ -41,13 +41,6 @@
   * [Numpy Notebook](https://colab.research.google.com/drive/1_6DqSqxVdTqlYMmWIfK-Qv2soZfKqknr)
   * [Pandas Notebook](https://colab.research.google.com/drive/1WkKzB-IYSTxEgcGgaYbVvisdtRjOsDjP)
   * [Pandas Notebook Practice](https://docs.google.com/document/d/1kJemEivhqu-ZUTUpCJWkvFJIM2zN0c3M/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
-* Datasets
-  * [Titanic](https://drive.google.com/file/d/1faAdD3eiH1I6JszaT8W-aJ2MkUGnLrWP/view?usp=sharing)
-  * [Covid](https://drive.google.com/file/d/1xp74Fos6icE6-rnmbMkpDQwv2ULyxxoR/view?usp=sharing)
-  * [Iris](https://drive.google.com/file/d/1WaFl8leNNlVua8bNRtXGspR5_oxC3X1p/view?usp=sharing)
-  * [Students Data](https://drive.google.com/file/d/1B62SwEqe5klGIAFACsNg-UE2GkF_-yVy/view?usp=sharing)
-  * [Sms](https://drive.google.com/file/d/1Mt28eus6FKwew77rF0IFbgJr3M9iIHi9/view?usp=sharing)
-  * [WTC](https://drive.google.com/file/d/16OPif9DaQbJR-f7cMdK12KF4lSq-yP3C/view?usp=sharing)
 * Images and Pillow
   * [Manipulating Images with Pillow Slides](https://docs.google.com/presentation/d/1_1a88EK0kytjKVKCC7S4VF2_4QpHQbSp1S1cubSvlRU/present)
   * [Manipulating Images with Pillow Notebook](https://bit.ly/imgfiltercolab)
