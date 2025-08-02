@@ -61,7 +61,7 @@
 * **Second team project:** Classification
   * [Project presentation (slides)](https://docs.google.com/presentation/d/1WOlORtvljQqUyxUYM3u5oVcP9X7LotttIwVj8dy7Olc/edit?usp=sharing) 
 * Introduction to Google Gemini 
-  * [Overview of Google Gemini Slides](https://docs.google.com/presentation/d/1yW-halc0XC2pXHPp5BUBHt0vW3RQEx0L/edit?slide=id.g134da1a804d_0_194#slide=id.g134da1a804d_0_194)
+  * [Overview of Google Gemini (slides)](https://docs.google.com/presentation/d/1yW-halc0XC2pXHPp5BUBHt0vW3RQEx0L/edit?slide=id.g134da1a804d_0_194#slide=id.g134da1a804d_0_194)
   * [Image Generation Notebook](https://colab.research.google.com/drive/1LHSK6SOlZHQVS6C626NGKAK9nV_x_qU1?usp=sharing)
   * [Image Generation and Editing](https://colab.research.google.com/drive/1QTLfNCaXV_LGryzjASACj0ndvT9_uFkg?usp=sharing)
   * [Video Understanding](https://colab.research.google.com/drive/1S1bHdXrueQFtiMxD8R99DBUbm0rwfqsY?usp=sharing)
