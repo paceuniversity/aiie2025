@@ -67,7 +67,7 @@
   * [Text-to_Speech Notebook](https://colab.research.google.com/drive/1Ce1SMZhVx6hqdSkHpb8JMHQ0HOXaebC9?usp=sharing)
   * [Music Generation Notebook](https://colab.research.google.com/drive/1g9C-M-VHxyl2ftZYNHSAnkia4L8XXL53?usp=sharing)
 * NLP
-  * [Generative AI Slides](https://docs.google.com/presentation/d/1Ax5MTiBuN5_w7qce1NU28Ka6XWUDKnZp/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
+  * [Generative AI (slides)](https://docs.google.com/presentation/d/1Ax5MTiBuN5_w7qce1NU28Ka6XWUDKnZp/edit?usp=sharing&ouid=117718613427254641121&rtpof=true&sd=true)
   * [Text Sentiment Analysis Notebook](https://drive.google.com/file/d/17HvJAyxknig1nyvjEyBCo_9Alwc4Maty/view?usp=sharing)
   * [Gemini for generating text Notebook](https://colab.research.google.com/drive/1uN2b4wvU4GxB8C_u9TWXFbg3bmaYf_OV?usp=sharing)
   * [Gemini for summarization Notebook](https://colab.research.google.com/drive/1w5V-KGrzwgIXwUg6rafxz0ok6a5Nmrsm?usp=sharing)
