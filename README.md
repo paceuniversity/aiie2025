@@ -70,7 +70,7 @@
   * [Generative AI (slides)](https://docs.google.com/presentation/d/1Ax5MTiBuN5_w7qce1NU28Ka6XWUDKnZp/present)
   * [Text Sentiment Analysis Notebook](https://drive.google.com/file/d/17HvJAyxknig1nyvjEyBCo_9Alwc4Maty/view)
   * [Gemini for generating text Notebook](https://colab.research.google.com/drive/1hOHbYFJmTs-VftfiR-EkccWT_RmIVHX5)
-  * [Gemini for summarization Notebook](https://colab.research.google.com/drive/1w5V-KGrzwgIXwUg6rafxz0ok6a5Nmrsm?usp=sharing)
+  * [Gemini for summarization Notebook](https://colab.research.google.com/drive/1YYe133p0abq-wMhpBNwIkpBZDCfYfdGJ)
   * [Gemini for chatbot Notebook](https://colab.research.google.com/drive/1ikoOcNX1Zczmww2UJq5hg9thZPUt6Q4L?usp=sharing)
 * Building a Chatbot with Gemini and Streamlit (by: Tejomay Kapadia, Rohan Niranjan Kalpavruksha, and Roshan Niranjan Kalpavruksha)
   * [Hackathon Slides](https://docs.google.com/presentation/d/1wn7dcAdNaRzQMnn7Qx6abGnBtwlntQY5/present)
