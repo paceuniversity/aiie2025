@@ -2,19 +2,19 @@
 
 ## Instructors
 
-| <img src="./assets/people/christelle-scharff.jpg" width="120" alt="Dr. Christelle Scharff"/> | <img src="./assets/people/dr-kaleema.jpg" width="120" alt="Dr. Kaleema"/> |
+| <img src="./assets/people/christelle-scharff.jpeg" width="120" alt="Dr. Christelle Scharff"/> | <img src="./assets/people/dr-kaleema.jpeg" width="120" alt="Dr. Kaleema"/> |
 |:--:|:--:|
 | **Dr. Christelle Scharff** | **Dr. Kaleema** |
 
 ## Graduate Assistant
 
-| <img src="./assets/people/stephanie-sicilian.jpg" width="120" alt="Stephanie Sicilian"/> |
+| <img src="./assets/people/stephanie-sicilian.jpeg" width="120" alt="Stephanie Sicilian"/> |
 |:--:|
 | **Stephanie Sicilian** |
 
 ## Organizers
 
-| <img src="./assets/people/jill-olimpieri.jpg" width="120" alt="Jill Olimpieri"/> | <img src="./assets/people/rachel-schwartz.jpg" width="120" alt="Rachel Schwartz"/> |
+| <img src="./assets/people/jill-olimpieri.jpeg" width="120" alt="Jill Olimpieri"/> | <img src="./assets/people/rachel-schwartz.jpeg" width="120" alt="Rachel Schwartz"/> |
 |:--:|:--:|
 | **Jill Olimpieri** | **Rachel Schwartz** |
 
