@@ -2,19 +2,19 @@
 
 ## Instructors
 
-| <img src="https://media.licdn.com/dms/image/v2/D4D03AQGUOZerxyep8g/profile-displayphoto-shrink_800_800/B4DZSTiIydG4Ak-/0/1737641988394?e=1754524800&v=beta&t=qgkTMts1G-Vy6Vb5mMTkW-py7qg8PYbcbs4NdzLYVpc" width="120"/> | <img src="https://media.licdn.com/dms/image/v2/D4E03AQExsy_VJBbFmg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725973639624?e=1754524800&v=beta&t=mUwOQtZX2hAJXbUyo2gI1yW6Elutj0dvsLuf2BWVAcw" width="120"/> |
+| <img src="./assets/people/christelle-scharff.jpg" width="120" alt="Dr. Christelle Scharff"/> | <img src="./assets/people/dr-kaleema.jpg" width="120" alt="Dr. Kaleema"/> |
 |:--:|:--:|
 | **Dr. Christelle Scharff** | **Dr. Kaleema** |
 
 ## Graduate Assistant
 
-| <img src="https://media.licdn.com/dms/image/v2/D4D03AQG2Nf63gUD53g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715188480511?e=1754524800&v=beta&t=vwrBDcdhYupCQck67RVkaG7dkUWdY4bCAcWGkvtOsLs" width="120"/> |
+| <img src="./assets/people/stephanie-sicilian.jpg" width="120" alt="Stephanie Sicilian"/> |
 |:--:|
 | **Stephanie Sicilian** |
 
 ## Organizers
 
-| <img src="https://media.licdn.com/dms/image/v2/D4E03AQFIo2vleiaJgw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1702016197804?e=1754524800&v=beta&t=bI0vb1RBZ7TaxENAb6nedcdqV602kJyPyhPcVKGFpl8" width="120"/> | <img src="https://media.licdn.com/dms/image/v2/D4E03AQGW3urX2GrCzg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1701128920558?e=1754524800&v=beta&t=FIqX56yQVOZRgWIUuyVWRyYhaV7nDPZ1DYNd2TLdR-M" width="120"/> |
+| <img src="./assets/people/jill-olimpieri.jpg" width="120" alt="Jill Olimpieri"/> | <img src="./assets/people/rachel-schwartz.jpg" width="120" alt="Rachel Schwartz"/> |
 |:--:|:--:|
 | **Jill Olimpieri** | **Rachel Schwartz** |
 
